@@ -8,21 +8,22 @@
 - Lover of coding :exploding_head:
 
 ### :fire: Skills:
-<img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonatasPedroso&layout=compact&theme=algolia" alt="Most Used Languages" />
 <p align="left">
   <strong>Java, Spring Framework, JavaScript, Vue.js, React.js, React Native, Android Native, MongoDB, Oracle Database, PostgreSQL</strong>
 </p>
+<img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonatasPedroso&layout=compact&theme=algolia" alt="Most Used Languages" />
 
 ### :wrench: Tools:
 <p align="left">
   <strong>Intellij Ultimate, VSCode, Insomnia, Postman, SoapUi, Terminal for Windows, Linux and Bash.</strong>
 </p>
 
-<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=JonatasPedroso&show_icons=true&theme=algolia&count_private=true" alt="Jonatas Pedroso's github stats" />
-
 <p align="left">
   :clap: Do you want me working on your projects? :arrow_down:
 </p>
+
+<br>
+<img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=JonatasPedroso&show_icons=true&theme=algolia&count_private=true" alt="Jonatas Pedroso's github stats" />
 
 ### Connect with me:
 [<img align="left" alt="haryel gillet ramalho | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.2.0/icons/linkedin.svg" />][linkedin]
