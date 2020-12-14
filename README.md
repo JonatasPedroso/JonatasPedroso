@@ -11,6 +11,8 @@
 <p align="left">
   <strong>Java, Spring Framework, JavaScript, Vue.js, React.js, React Native, Android Native, MongoDB, Oracle Database, PostgreSQL</strong>
 </p>
+
+<br/>
 <img align="right" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonatasPedroso&layout=compact&theme=algolia" alt="Most Used Languages" />
 
 ### :wrench: Tools:
@@ -22,7 +24,7 @@
   :clap: Do you want me working on your projects? :arrow_down:
 </p>
 
-<br>
+<br/><br/>
 <img align="right" width="400" src="https://github-readme-stats.vercel.app/api?username=JonatasPedroso&show_icons=true&theme=algolia&count_private=true" alt="Jonatas Pedroso's github stats" />
 
 ### Connect with me:
