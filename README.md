@@ -1,8 +1,7 @@
 <img src="https://media3.giphy.com/media/L8K62iTDkzGX6/giphy.gif" min-width="200px" max-width="250px" width="400px"
     align="right" alt="Devlopment Image">
 
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, `I'm Jonatas Pedroso`,
-welcome to my profile
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, `I'm Jonatas Pedroso`, welcome to my profile
 ##### I'm fullstack developer at [Group FCamara](https://fcamara.com.br/) :rocket: :orange:
 
 <p align="left"> <img
