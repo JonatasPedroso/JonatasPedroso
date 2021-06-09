@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 - :mortar_board: I'm graduated in computer science at [UNIP](https://unip.br/presencial).
-- :rocket: Also student on the [rocketseat](https://app.rocketseat.com.br/me/jonatas-pedroso-1566550929) training track in react native.
+- :rocket: Also student on the [ROCKETSEAT](https://app.rocketseat.com.br/me/jonatas-pedroso) training track in react native.
 
 - Lover of coding :exploding_head:
 
