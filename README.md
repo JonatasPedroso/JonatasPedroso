@@ -2,7 +2,7 @@
     align="right" alt="Devlopment Image">
 
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, `I'm Jonatas Pedroso`, welcome to my profile
-##### I'm fullstack developer at [Group FCamara](https://fcamara.com.br/) :rocket: :orange:
+##### I'm fullstack developer
 
 <p align="left"> <img
         src="https://komarev.com/ghpvc/?username=jonataspedroso&label=Profile%20views&color=0e75b6&style=flat"
