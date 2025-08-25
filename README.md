@@ -10,7 +10,8 @@
 
 ## 🚀 About Me
 - :mortar_board: I'm graduated in computer science at [UNIP](https://unip.br/presencial).
-- :rocket: Also student on the [ROCKETSEAT](https://app.rocketseat.com.br/me/jonatas-pedroso) training track in react native.
+- :mortar_board: MBA in Software Engineering with emphasis on WEB and Mobile Applications at [FIB](https://fib.edu.br/).
+- :rocket: Currently pursuing a postgraduate degree in AI and Automation, Computer Science at [ROCKETSEAT](https://app.rocketseat.com.br/me/jonatas-pedroso).
 
 - Lover of coding :exploding_head:
 
